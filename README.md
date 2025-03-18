@@ -69,3 +69,12 @@ Finally got success message
 ```bash
 Hi your_personal_email! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+### how to clone 
+  
+```bash
+#Personal
+git clone git@github.com-personal:username/repo.git
+
+#work
+git clone git@github.com-work:username/repo.git
+```
